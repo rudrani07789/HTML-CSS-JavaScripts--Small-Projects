@@ -1,0 +1,29 @@
+/*  Universal Selector *{
+    font-family: fantasy;
+} */
+body{
+    font-size: 24px;
+}
+p:hover{
+  font-family: monospace;
+}
+/*group selector*/
+#first , #second{
+    color: blue;
+}
+
+
+.purple{
+    color: purple;
+    font-family: monospace;
+}
+.highlight{
+    background-color: yellow;
+    font-weight: bold;
+    font-style: italic;
+}
+/* Nested selector */
+#first>p{
+   color: green;
+}
+/*  id> class> element (specific order) */

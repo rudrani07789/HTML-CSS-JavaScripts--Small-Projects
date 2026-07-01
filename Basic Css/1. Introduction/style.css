@@ -1,0 +1,10 @@
+h1{
+    color: brown;
+    background-color: bisque;
+}
+p{
+    font-family: 'Courier New', Courier, monospace;
+}
+body{
+    background-color: rgb(245, 208, 238);
+}

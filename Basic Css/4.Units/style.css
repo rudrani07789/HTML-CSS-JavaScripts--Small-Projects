@@ -1,0 +1,33 @@
+/* px= pixel */
+/* % relative to parent */
+/* vw= view wiidth  */
+/* vh = view height */
+/* em relative to parent */
+/* rem relative to root(html) */
+main{
+    border: 5px solid pink;
+    /* border-radius: 10px; */
+    /* width: 50%; */
+    width: 50vw;
+}
+/* body{
+    font-size: 2em;
+} */
+/* header{
+    font-size: 2em;
+} */
+h1{
+    font-size: 3rem;
+}
+h3{
+    font-size: 1.5rem;
+}
+p{
+    font-size: 1.5rem;
+}
+
+section{
+    border: 5px dashed blue;
+    width: 50vw;
+    height: 50vh;
+}
