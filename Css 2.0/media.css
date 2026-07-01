@@ -1,0 +1,16 @@
+.title{
+    font-size: 52px;
+}
+
+.paragraph{
+    font-size: 24px;
+}
+
+@media (max-width:480px) {
+    .title{
+        font-size: 30px;
+    }
+    .paragraph{
+        font-size: 20px;
+    }
+}

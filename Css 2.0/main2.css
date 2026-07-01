@@ -1,0 +1,21 @@
+#first-para.para1.red{
+    color: aqua;
+}
+
+#first-para{
+ color: black;
+}
+.para1.red{
+   color: blue;
+}
+p.para1{
+    color: red;
+}
+
+.para1{
+    color: pink;
+}
+
+p{
+    color: yellow;
+}

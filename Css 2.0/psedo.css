@@ -1,0 +1,15 @@
+button{
+  transition: 300ms;
+}
+button:hover{
+    
+  opacity: 50%;
+  background-color: pink;
+}
+
+p::before{
+    content: "Hey my name is ";
+    background-color: aqua;
+    margin: 8px;
+
+}

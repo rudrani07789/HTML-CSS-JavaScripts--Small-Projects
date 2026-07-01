@@ -1,0 +1,13 @@
+
+p{
+    animation: pointdown 1000ms infinite alternate-reverse;
+}
+
+@keyframes pointdown{
+    0%{
+      transform: translateY(0)
+    }
+    100%{
+       transform: translateY(16px)
+    }
+}
